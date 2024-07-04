@@ -239,7 +239,4 @@ footer span{
         grid-template-columns: 1fr 1fr;
         gap: 55px;
     }
-    .footer-item{
-        align-items: center;
-    }
 }
